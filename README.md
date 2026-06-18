@@ -16,6 +16,7 @@
 |-------|------|
 | [codex-quota-check](codex-quota-check/) | 查询 Codex 剩余额度（5小时/每周），通过本机 codex app-server JSON-RPC |
 | [zhixin-companion](zhixin-companion/) | 知心伙伴模式 — 真诚、共情、陪伴、镜映的深度心理对话。承接情绪、看见人 |
+| [renqing-adviser](renqing-adviser/) | 人情世故顾问 — 中国式人际关系场景分析与策略建议。家庭、职场、社交、恋爱全覆盖 |
 | ... | 持续更新中 |
 
 <p align="center">

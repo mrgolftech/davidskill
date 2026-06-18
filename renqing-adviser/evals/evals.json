@@ -1,0 +1,26 @@
+{
+  "skill_name": "renqing-adviser",
+  "evals": [
+    {
+      "id": 0,
+      "name": "workplace-pushback",
+      "prompt": "我的同事总是把他的工作推给我，但在领导面前又表现得很积极。我很烦但又不知道怎么处理，直接说怕得罪人",
+      "expected_output": "应包含局势分析、具体应对策略（含话术）、避坑提醒",
+      "files": []
+    },
+    {
+      "id": 1,
+      "name": "mother-in-law-parenting",
+      "prompt": "我婆婆非要按她的方式带孩子，说什么'你们就是这样长大的'，但是很多做法明显不科学。我老公觉得他妈说的也有道理，我快崩溃了",
+      "expected_output": "应识别出婆媳+夫妻双重关系，给出分层策略和具体话术",
+      "files": []
+    },
+    {
+      "id": 2,
+      "name": "friend-borrow-money",
+      "prompt": "一个关系还不错的朋友找我借5万块钱，说做生意周转，一个月就还。我有这个钱但是不太想借，又怕伤感情",
+      "expected_output": "应分析借与不借的利弊，给出多种策略选项和具体话术",
+      "files": []
+    }
+  ]
+}
