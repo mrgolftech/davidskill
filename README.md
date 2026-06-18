@@ -8,6 +8,16 @@
 
 欢迎关注我的公众号，一起交流 AI 时代的工具哲学和创作心得。
 
+---
+
+## 📦 Skills
+
+| Skill | 说明 |
+|-------|------|
+| [codex-quota-check](codex-quota-check/) | 查询 Codex 剩余额度（5小时/每周），通过本机 codex app-server JSON-RPC |
+| [zhixin-companion](zhixin-companion/) | 知心伙伴模式 — 真诚、共情、陪伴、镜映的深度心理对话。承接情绪、看见人 |
+| ... | 持续更新中 |
+
 <p align="center">
   <img src="公众号.jpg" alt="慢半拍的胖胖" width="100%">
 </p>
